@@ -1,0 +1,17 @@
+一些推荐 User.js 加载器 (转自 Greasyfork)：
+- **Chrome (电脑)**：[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 或 [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) 
+- **Firefox (电脑)**：[Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)、[Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/) 或 [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
+- **Safari (电脑)**：[Tampermonkey](https://www.tampermonkey.net/?browser=safari) 或 [Userscripts](https://apps.apple.com/app/userscripts/id1463298887)
+- **Microsoft Edge (电脑)**：[Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) 或 [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)
+- **Opera (电脑)**：[Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) 或 [Violentmonkey](https://violentmonkey.github.io/get-it/)
+- **Maxthon (电脑)**：[Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
+- **AdGuard (电脑)**：[AdGuard](https://adguard.com/)（不需要其他软件）
+- **Dolphin (安卓)**：[Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
+- **UC (安卓)**：[Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&ext=dhdg)
+- **Kiwi (安卓)**：[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn) 或 [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
+- **XBrowser (安卓)**：[XBrowser](https://www.xbext.com/)
+- **书签地球 (安卓)**：[书签地球下载](https://www.bookmarkearth.cn/download/app)
+- **M浏览器 (安卓)**：[M浏览器下载](http://mbrowser.nr19.cn/)
+- **狐猴浏览器 (安卓)**：[狐猴浏览器](https://www.lemurbrowser.com/)：[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- **Via 浏览器 (安卓)**：[Via 浏览器官网](https://www.viayoo.com/)
+- **Gear (iOS)**：[Gear](https://gear4.app/)：（不需要其他软件）
